@@ -1,5 +1,7 @@
 # learn-shell
 
+# this is comment
+
 shell scrpit commands
 
 .........git clone
