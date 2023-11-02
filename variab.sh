@@ -5,5 +5,11 @@ name="bhaskarreddy E"
  echo $a
  echo ${a}
  echo ${a}dollars
+a=$((5+12+20/4))
+echo $a
+
+todays_date=$(date)
+echo $todays_date
 
 
+echo $?
